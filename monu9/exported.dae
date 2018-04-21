@@ -5,14 +5,14 @@
 <authoring_tool>VoxelShop V1.8.22
 </authoring_tool>
 </contributor>
-<created>2018-04-21T21:37:10</created>
-<modified>2018-04-21T21:37:10</modified>
+<created>2018-04-21T21:59:24</created>
+<modified>2018-04-21T21:59:24</modified>
 <unit meter="1" name="meter"/>
 <up_axis>Z_UP</up_axis>
 </asset>
 <library_images>
 <image id="exported_texture0-image" name="exported_texture0-image">
-<init_from>exported_texture0.png</init_from>
+<init_from>file://exported_texture0.png</init_from>
 </image>
 </library_images>
 <library_effects>
