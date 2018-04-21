@@ -12,7 +12,7 @@
 </asset>
 <library_images>
 <image id="exported_texture0-image" name="exported_texture0-image">
-<init_from>file://exported_texture0.png</init_from>
+<init_from>exported_texture0.png</init_from>
 </image>
 </library_images>
 <library_effects>
